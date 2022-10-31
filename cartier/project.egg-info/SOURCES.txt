@@ -1,0 +1,13 @@
+setup.py
+cartier/__init__.py
+cartier/items.py
+cartier/middlewares.py
+cartier/pipelines.py
+cartier/settings.py
+cartier/spiders/Cartier.py
+cartier/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
